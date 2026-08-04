@@ -15,7 +15,6 @@ I enjoy turning everyday friction into focused software: native desktop utilitie
 - 🍎 Building native macOS apps with Swift and SwiftUI
 - 🤖 Exploring Android and Compose Multiplatform
 - 🧩 Making useful browser extensions and web utilities
-- ⚙️ Comfortable with Rust, Go, Python, and automation
 
 ## Selected work
 
