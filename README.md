@@ -4,6 +4,8 @@
 
 ### Building small, thoughtful tools across Apple platforms, Android, and the web.
 
+[English](./README.md) · [简体中文](./README.zh-CN.md)
+
 [![GitHub](https://img.shields.io/badge/GitHub-ron159-181717?logo=github&logoColor=white)](https://github.com/ron159)
 ![Followers](https://img.shields.io/github/followers/ron159?style=flat&label=Followers&logo=github)
 
@@ -33,11 +35,11 @@ I enjoy turning everyday friction into focused software: native desktop utilitie
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [iGestures](https://github.com/ron159/iGestures) | A native, lightweight mouse-gesture utility for macOS. | Swift · SwiftUI |
-| [MeerkatReader](https://github.com/ron159/MeerkatReader) | A small, focused Android RSS reader. | Kotlin · Android |
-| [bookmark_checker](https://github.com/ron159/bookmark_checker) | A browser extension for checking and organizing bookmarks. | Browser Extension |
-| [vget](https://github.com/ron159/vget) | A versatile CLI and Docker downloader for media, podcasts, PDFs, and more. | Go · Docker |
-| [auto-face-blur](https://github.com/ron159/auto-face-blur) | Automated face blurring for privacy-conscious workflows. | Python |
+| 🐹 [iGestures](https://github.com/ron159/iGestures) | A native, lightweight mouse-gesture utility for macOS. | Swift · SwiftUI |
+| 🐾 [MeerkatReader](https://github.com/ron159/MeerkatReader) | A small, focused Android RSS reader. | Kotlin · Android |
+| 🦊 [bookmark_checker](https://github.com/ron159/bookmark_checker) | A browser extension for checking and organizing bookmarks. | Browser Extension |
+| 🦦 [otterdive](https://github.com/ron159/otterdive) | A work in progress. | — |
+| 🙈 [auto-face-blur](https://github.com/ron159/auto-face-blur) | Automated face blurring for privacy-conscious workflows. | Python |
 
 [![iGestures stars](https://img.shields.io/github/stars/ron159/iGestures?style=flat&label=iGestures%20stars&logo=github)](https://github.com/ron159/iGestures)
 [![iGestures latest release](https://img.shields.io/github/v/release/ron159/iGestures?display_name=tag&style=flat&label=Latest%20release)](https://github.com/ron159/iGestures/releases)
