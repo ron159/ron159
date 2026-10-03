@@ -31,18 +31,6 @@ An eBPF network diagnostic tool for Linux and rooted Android, evolved from [nett
 
 [Downloads](https://github.com/ron159/Anettrace/releases) · [Guide](https://github.com/ron159/Anettrace/wiki) · ![Anettrace last commit](https://img.shields.io/github/last-commit/ron159/Anettrace?style=flat&label=updated)
 
-### 🌱 [Wanwan Teacher Helper · 丸丸小帮手](https://github.com/ron159/wanwan-teacher-helper)
-
-<img align="right" src="https://raw.githubusercontent.com/ron159/wanwan-teacher-helper/main/assets/icon.png" width="72" height="72" alt="Wanwan Teacher Helper app icon">
-
-**Less file wrangling, more time for the classroom.**
-
-An offline Windows helper for kindergarten teachers: prepare photos, create Word and PowerPoint materials, organize PDFs and spreadsheets, and compress audio or video. Preview the plan, keep the originals, and process teaching materials locally.
-
-`Windows` · `Python · PySide6 · FFmpeg`
-
-[Downloads](https://github.com/ron159/wanwan-teacher-helper/releases) · [How it works](https://github.com/ron159/wanwan-teacher-helper#readme) · ![Wanwan Teacher Helper last commit](https://img.shields.io/github/last-commit/ron159/wanwan-teacher-helper?style=flat&label=updated)
-
 ### 🦦 [OtterDive](https://github.com/ron159/OtterDive)
 
 <img align="right" src="https://raw.githubusercontent.com/ron159/OtterDive/main/crates/otterdive-app/icons/icon-source.png" width="72" height="72" alt="OtterDive's otter app icon">

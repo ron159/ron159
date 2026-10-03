@@ -31,18 +31,6 @@
 
 [下载](https://github.com/ron159/Anettrace/releases) · [使用手册](https://github.com/ron159/Anettrace/wiki) · ![Anettrace 最近更新](https://img.shields.io/github/last-commit/ron159/Anettrace?style=flat&label=updated)
 
-### 🌱 [丸丸小帮手](https://github.com/ron159/wanwan-teacher-helper)
-
-<img align="right" src="https://raw.githubusercontent.com/ron159/wanwan-teacher-helper/main/assets/icon.png" width="72" height="72" alt="丸丸小帮手应用图标">
-
-**少一点文件折腾，多一点陪伴孩子的时间。**
-
-给幼儿园老师准备的离线 Windows 文件助手：整理照片、制作 Word 和 PPT 材料、处理 PDF 与表格，还能压缩影音。先预览再执行，保留原件，教学材料在本地处理。
-
-`Windows` · `Python · PySide6 · FFmpeg`
-
-[下载](https://github.com/ron159/wanwan-teacher-helper/releases) · [功能说明](https://github.com/ron159/wanwan-teacher-helper#readme) · ![丸丸小帮手最近更新](https://img.shields.io/github/last-commit/ron159/wanwan-teacher-helper?style=flat&label=updated)
-
 ### 🦦 [OtterDive](https://github.com/ron159/OtterDive)
 
 <img align="right" src="https://raw.githubusercontent.com/ron159/OtterDive/main/crates/otterdive-app/icons/icon-source.png" width="72" height="72" alt="OtterDive 水獭应用图标">
