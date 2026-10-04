@@ -61,9 +61,9 @@ A native mouse-gesture utility that turns familiar shapes into useful actions. S
 
 **A quiet corner for a busy reading list.**
 
-An Android RSS reader evolved from [Capy Reader](https://github.com/jocmp/capyreader). Bring Feedbin, FreshRSS, Miniflux, or local feeds together, read full articles, save searches, and make the typography and gestures feel like yours.
+An Android RSS reader evolved from [Capy Reader](https://github.com/jocmp/capyreader). Connect Feedbin, FreshRSS, Miniflux, Google Reader API-compatible services, or local feeds. Read full articles, listen with text-to-speech, save to Wallabag, and back up with WebDAV — with typography and gestures that fit the way you read.
 
-`Android` · `Kotlin · Jetpack Compose`
+`Android 11+` · `Kotlin · Jetpack Compose`
 
 [Explore](https://github.com/ron159/MeerkatReader#readme) · ![Meerkat Reader last commit](https://img.shields.io/github/last-commit/ron159/MeerkatReader?style=flat&label=updated)
 
