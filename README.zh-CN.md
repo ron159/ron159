@@ -57,7 +57,7 @@
 
 ### 🐾 [Meerkat Reader](https://github.com/ron159/MeerkatReader)
 
-<img align="right" src="https://raw.githubusercontent.com/ron159/MeerkatReader/main/site/meerkat.png" width="72" height="72" alt="Meerkat Reader 狐獴形象">
+<img align="right" src="https://raw.githubusercontent.com/ron159/CraftEcho-Icons/main/app/src/main/res/drawable-nodpi/icon_meerkat_reader.png" width="72" height="72" alt="Meerkat Reader 狐獴形象">
 
 **信息很多，阅读可以安静一点。**
 
