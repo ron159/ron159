@@ -61,9 +61,9 @@
 
 **信息很多，阅读可以安静一点。**
 
-从 [Capy Reader](https://github.com/jocmp/capyreader) 演进而来的 Android RSS 阅读器。连接 Feedbin、FreshRSS、Miniflux 或本地订阅，阅读完整文章、保存搜索，再把字体和手势调成自己喜欢的样子。
+从 [Capy Reader](https://github.com/jocmp/capyreader) 演进而来的 Android RSS 阅读器。连接 Feedbin、FreshRSS、Miniflux、Google Reader API 兼容服务或本地订阅，支持全文阅读、语音朗读、Wallabag 稍后读和 WebDAV 备份，并可自定义排版与手势。
 
-`Android` · `Kotlin · Jetpack Compose`
+`Android 11+` · `Kotlin · Jetpack Compose`
 
 [项目介绍](https://github.com/ron159/MeerkatReader#readme) · ![Meerkat Reader 最近更新](https://img.shields.io/github/last-commit/ron159/MeerkatReader?style=flat&label=updated)
 
