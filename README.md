@@ -57,7 +57,7 @@ A native mouse-gesture utility that turns familiar shapes into useful actions. S
 
 ### 🐾 [Meerkat Reader](https://github.com/ron159/MeerkatReader)
 
-<img align="right" src="https://raw.githubusercontent.com/ron159/MeerkatReader/main/site/meerkat.png" width="72" height="72" alt="Meerkat Reader's meerkat mascot">
+<img align="right" src="https://raw.githubusercontent.com/ron159/CraftEcho-Icons/main/app/src/main/res/drawable-nodpi/icon_meerkat_reader.png" width="72" height="72" alt="Meerkat Reader's meerkat mascot">
 
 **A quiet corner for a busy reading list.**
 
